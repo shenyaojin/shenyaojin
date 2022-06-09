@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shenyaojin
-- 👀 I’m interested in geophysics.
+- 👀 I love geophysics and enjoy it.
 - 🌱 I’m currently learning exploration seismology, ambient noise and DAS(**D**istributed **A**coustic **S**ensing.
 - 📫 Contact: shenyao_jin@zju.edu.cn
 
