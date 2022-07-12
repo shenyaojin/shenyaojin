@@ -11,6 +11,9 @@
 - 📌 Scientific Computing: R, Matlab/Octave, Fortran
 - 📘 Plotting: GMT, GNU Plot, AI(**A**dobe **I**llustratoor), Surfer& Grapher, Origin
 - 💻 Operating system: Linux(including Debian family, RedHat family and Arch) and windows.
+- 💬 Writing: LaTeX, Markdown
+- 💭 Others: Git
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenyaojin&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 If you want know more, don't hesitate to send me a email. I will send you my CV.
