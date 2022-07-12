@@ -17,7 +17,7 @@ If you want know more, don't hesitate to send me a email. I will send you my CV.
 
 ## <div align='center' ><font size='70'>About me</font></div>
 - 💬 Must say I'm still a freshman in coding. I sincerely hope those geophysical prgrams could bring you ideas.
-- 👊 Anime lover. You could visit [another page](https://zh.moegirl.org.cn/User:Keith.Jin) to know about this. Have you heard of Makise Kurisu? 
+- 👊 Anime lover. You could visit [another page](https://zh.moegirl.org.cn/User:Keith.Jin) to know about this. Have you heard of [Makise Kurisu](https://steins-gate.fandom.com/wiki/Kurisu_Makise)? 
 - 👼 Not skilled in geology though I will get my bachelor degree of geology. Even couldn't identify the type of rocks. Please don't ask me the type of rock because I will be likely to give you a totally wrong answer.
 - 👦 Enjoy physics and geophysics. I'm willing to discuss them with every one. I'm proud that I love them.
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shenyaojin&show_icons=true" /></p>
