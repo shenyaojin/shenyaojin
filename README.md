@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning exploration seismology, ambient noise imaging and DAS(**D**istributed **A**coustic **S**ensing) technlogy.
 - 📫 Contact: shenyao_jin@zju.edu.cn; shenyaojin@mines.edu; jsy.zju@gmail.com
 - 📱 Phone: +1 (720)939-5628; +86 15824317395
-- 😄 I’m looking for a PhD position in geophysics!
 
 ## <div align='center' ><font size='70'>Skills</font></div>
 - ⏩ Programming: C/C++, Python, Shell
