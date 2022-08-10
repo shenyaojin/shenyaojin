@@ -1,6 +1,6 @@
 # <div align='center' ><font size='70'>Shenyao Jin</font></div>
 
-- 👋 I’m @shenyaojin. I'm learning geophysics in Zhejiang University.
+- 👋 I’m @shenyaojin from China. I'm learning geophysics in Zhejiang University.
 - 👀 I love theoretical physics, geophysics and programming and enjoy all of them.
 - 🌱 I’m currently learning exploration seismology, ambient noise imaging and DAS(**D**istributed **A**coustic **S**ensing) technlogy.
 - 📫 Contact: shenyao_jin@zju.edu.cn; shenyaojin@mines.edu; jsy.zju@gmail.com
