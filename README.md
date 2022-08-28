@@ -10,7 +10,7 @@
 
 - ⏩ Programming: C/C++, Python, Shell
 - 📌 Scientific Computing: R, Matlab/Octave, Fortran
-- 📘 Plotting: GMT, GNU Plot, AI(**A**dobe **I**llustratoor), Surfer& Grapher, Origin
+- 📘 Plotting: GMT, GNU Plot, AI(**A**dobe **I**llustratoor), Surfer& Grapher, Origin, GIMP, inkspace
 - 💻 Operating system: Linux(including Debian family, RedHat family and Arch Family) and windows.
 - 💬 Writing: LaTeX, Markdown
 - 💭 Others: Git
