@@ -22,7 +22,6 @@ If you want know more, don't hesitate to send me a email. I will send you my CV.
 ## <div align='center' ><font size='70'>About me</font></div>
 
 - 💬 I'm still a freshman in coding. I sincerely hope those geophysical prgrams could bring you ideas.
-- 👾 Anime lover.
 - 👼 Not skilled in geology though I will get my bachelor degree of geology. 
 - 👦 Enjoy physics and geophysics. I'm willing to discuss them with every one. I'm proud that I love them.
   
