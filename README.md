@@ -22,7 +22,7 @@ If you want know more, don't hesitate to send me a email. I will send you my CV.
 ## <div align='center' ><font size='70'>About me</font></div>
 
 - 💬 I'm still a freshman in coding. I sincerely hope those geophysical prgrams could bring you ideas.
-- 👼 Not skilled in geology though I will get my bachelor degree of geology. 
+- 👼 Not skilled in geology compared to geophysics. 
 - 👦 Enjoy physics and geophysics. I'm willing to discuss them with every one. I'm proud that I love them.
   
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shenyaojin&show_icons=true" /></p>
