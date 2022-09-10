@@ -2,7 +2,7 @@
 
 - 👋 I’m @shenyaojin from China. I'm learning geophysics in Zhejiang University currently. ~~I'm an Archlinux User.~~ Now I'm a Manjaro User.
 - 👀 I love theoretical physics, geophysics and programming and enjoy all of them.
-- 🌱 I’m currently learning exploration seismology, ambient noise imaging and DAS(**D**istributed **A**coustic **S**ensing) technlogy.
+- 🌱 I’m currently learning exploration seismology, ambient noise imaging and DAS(**D**istributed **A**coustic **S**ensing).
 - 📫 Contact: shenyao_jin@zju.edu.cn; shenyaojin@mines.edu; jsy.zju@gmail.com
 - 📱 Phone: +1 (720)939-5628; +86 15824317395. I suggest you to contact me with my e-mail first.
 
