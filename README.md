@@ -8,7 +8,7 @@
 
 ## <div align='center' ><font size='70'>Skills</font></div>
 
-- ⏩ Programming: C/C++, Python, Shell S
+- ⏩ Programming: C/C++, Python, Shell Script
 - 📌 Scientific Computing: R, Matlab/Octave, Fortran
 - 📘 Plotting: GMT, GNU Plot, AI(**A**dobe **I**llustratoor), Surfer& Grapher, Origin, GIMP, Inkspace
 - 💻 Operating system: Linux(including Debian family, RedHat family and Arch Family) and windows.
