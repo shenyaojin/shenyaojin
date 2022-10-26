@@ -17,7 +17,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenyaojin&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-If you want know more, don't hesitate to send me a email. I will send you my CV.
+If you want to get more information about me, don't hesitate to send me a email. I will send you my CV.
 
 ## <div align='center' ><font size='70'>About me</font></div>
 
