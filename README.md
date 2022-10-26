@@ -11,7 +11,7 @@
 - ⏩ Programming: C/C++, Python, Shell Script
 - 📌 Scientific Computing: R, Matlab/Octave, Fortran
 - 📘 Plotting: GMT, GNU Plot, AI(**A**dobe **I**llustratoor), Surfer& Grapher, Origin, GIMP, Inkscape
-- 💻 Operating system: Linux(including Debian family, RedHat family and Arch Family) and windows.
+- 💻 Operating system: Linux\[including Debian (and **ubuntu**), RHEL (and CentOS) and Arch (including Manjaro Linux)\] and windows.
 - 💬 Writing: LaTeX, Markdown
 - 💭 Others: Git
 
