@@ -4,7 +4,7 @@
 - 👀 I love theoretical physics, geophysics and programming and enjoy all of them.
 - 🌱 I’m currently learning exploration seismology, ambient noise imaging and DAS(**D**istributed **A**coustic **S**ensing).
 - 📫 Contact: shenyao_jin@zju.edu.cn
-- 📱 Phone: +1 (720)939-5628; +86 15824317395. I suggest you to contact me with my e-mail first.
+- 📱 Phone: +1 (720)939-5628; +86 15824317395. I suggest you to contact me with mail first.
 
 ## <div align='center' ><font size='70'>Skills</font></div>
 
