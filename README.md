@@ -17,8 +17,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenyaojin&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-If you want to get more information about me, don't hesitate to send me a email. I will send you my CV.
-
 ## <div align='center' ><font size='70'>About me</font></div>
 
 - 💬 There are lots things we need to learn. I sincerely hope those geophysical prgrams could bring you ideas.
