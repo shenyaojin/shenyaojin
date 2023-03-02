@@ -1,9 +1,9 @@
 # <div align='center' ><font size='70'>Shenyao Jin</font></div>
 
-- 👋 I’m @shenyaojin from China. I'm learning geophysics in Zhejiang University currently. ~~I'm an Archlinux User.~~ Now I'm a Manjaro User.
+- 👋 I’m @shenyaojin from China. I was a student majoring geophysics in Zhejiang University currently. Now I'm a Ph.D. candidate of (RCP)[https://rcp.mines.edu/] Lab, geophysics department, Colorado School of Mines. 
 - 👀 I love theoretical physics, geophysics and programming and enjoy all of them.
 - 🌱 I’m currently learning exploration seismology, ambient noise imaging and DAS(**D**istributed **A**coustic **S**ensing).
-- 📫 Contact: shenyao_jin@zju.edu.cn
+- 📫 Contact: shenyao_jin@zju.edu.cn; jinshenyao@mines.edu
 - 📱 Phone: +1 (720)939-5628; +86 15824317395. I suggest you to contact me with mail first.
 
 ## <div align='center' ><font size='70'>Skills</font></div>
