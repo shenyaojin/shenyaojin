@@ -21,8 +21,8 @@ If you want to get more information about me, don't hesitate to send me a email.
 
 ## <div align='center' ><font size='70'>About me</font></div>
 
-- 💬 I'm still a freshman in coding. I sincerely hope those geophysical prgrams could bring you ideas.
-- 👦 Enjoy physics and geophysics. I'm willing to discuss them with every one. I'm proud that I love them.
+- 💬 There are lots things we need to learn. I sincerely hope those geophysical prgrams could bring you ideas.
+- 👦 Enjoy physics and geophysics. I'm proud that I love them.
   
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shenyaojin&show_icons=true" /></p>
   <!---
