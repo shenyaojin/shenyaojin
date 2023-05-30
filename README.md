@@ -19,8 +19,8 @@
 
 ## <div align='center' ><font size='70'>About me</font></div>
 
-- 💬 There are lots things we need to learn. I sincerely hope those geophysical prgrams could bring you ideas.
-- 👦 Enjoy physics and geophysics. I'm proud that I love them.
+- 💬 There are lots things we need to learn. I sincerely hope those prgrams could bring you ideas.
+- 👦 Free software/libre software will change the whole world. I believe it so much.
   
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shenyaojin&show_icons=true" /></p>
   <!---
