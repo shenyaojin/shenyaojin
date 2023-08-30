@@ -21,7 +21,7 @@
 - 💬 There are lots things we need to learn. I sincerely hope those prgrams could bring you ideas.
 - 👦 Free software/libre software will change the whole world. I believe it so much.
 
-  👇 开摆了
+  # <div align='center' >👇 开摆了</div>
   
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shenyaojin&show_icons=true" /></p>
   <!---
