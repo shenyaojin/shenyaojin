@@ -33,6 +33,6 @@ Please support the open-source software!
 
 ![avatar](https://www.zotero.org/static/images/promote/zotero-logo-128x31.png)
 
-![avatar2](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Manjaro_logo_text.svg/2560px-Manjaro_logo_text.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Manjaro_logo_text.svg/2560px-Manjaro_logo_text.svg.png" alt="Image description" width="200" height="200" />
 
-![avatar3](https://www.mozilla.org/media/img/trademarks/mozilla-logo-tm.731d4dab7347.svg)
+<img src="https://www.mozilla.org/media/img/trademarks/mozilla-logo-tm.731d4dab7347.svg" alt="Image description" width="200" height="200" />
