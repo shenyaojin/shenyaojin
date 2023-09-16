@@ -28,3 +28,6 @@
   shenyaojin/shenyaojin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
   --->
+
+Please support the open-source software! 
+![avatar](https://www.zotero.org/static/images/promote/zotero-logo-128x31.png)
