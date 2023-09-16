@@ -32,4 +32,5 @@
 Please support the open-source software! 
 
 ![avatar](https://www.zotero.org/static/images/promote/zotero-logo-128x31.png)
+
 <img src="https://www.mozilla.org/media/img/trademarks/mozilla-logo-tm.731d4dab7347.svg" alt="Image description" width="100" height="100" />
