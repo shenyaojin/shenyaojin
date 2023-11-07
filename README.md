@@ -1,6 +1,6 @@
 # <div align='center' ><font size='70'>Shenyao Jin</font></div>
 
-- 👋 I’m @shenyaojin from China. I was a student majoring geophysics in Zhejiang University. Now I'm a Ph.D. student of [RCP](https://rcp.mines.edu/), GP department, CO School of Mines. 
+- 👋 I’m @shenyaojin. I was a student majoring geophysics in Zhejiang University, China. Now I'm a Ph.D. student of [RCP](https://rcp.mines.edu/), GP department, CO School of Mines, USA. 
 - 👀 I love theoretical physics, geophysics and programming and enjoy all of them.
 - 🌱 I’m currently learning exploration seismology, including mechanism of hydraulic fracturing and DFOS especially DAS(**D**istributed **A**coustic **S**ensing) and DSS((**D**istributed **S**train **S**ensing)).
 - 📫 Contact: shenyaojin@mines.edu; shenyao_jin@zju.edu.cn; +1 310-256-7875
