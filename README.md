@@ -1,31 +1,5 @@
-# <div align='center' ><font size='70'>Shenyao Jin</font></div>
+<img src="https://img1.baidu.com/it/u=4124683819,412773562&fm=253&fmt=auto&app=120&f=JPEG?w=490&h=307" alt="Image description" width="100" height="100" />
 
-- 👋 I’m @shenyaojin. I was a student majoring geophysics in Zhejiang University, China. Now I'm a Ph.D. student of [RCP](https://rcp.mines.edu/), GP department, CO School of Mines, USA. 
-- 👀 I love theoretical physics, geophysics and programming and enjoy all of them.
-- 🌱 I’m currently learning exploration seismology, including mechanism of hydraulic fracturing and DFOS especially DAS(**D**istributed **A**coustic **S**ensing) and DSS((**D**istributed **S**train **S**ensing)).
-- 📫 Contact: shenyaojin@mines.edu; shenyao_jin@zju.edu.cn; +1 310-256-7875
-
-## <div align='center' ><font size='70'>Skills</font></div>
-
-- ⏩ Programming: C/C++, Python, Shell Script
-- 📌 Scientific Computing: R, Matlab/Octave, Fortran
-- 📘 Plotting: GMT, GNU Plot, AI(**A**dobe **I**llustratoor), Surfer& Grapher, Origin, GIMP, Inkscape
-- 💻 Operating system: Linux\[including Debian (and **ubuntu**), RHEL (and **CentOS**) and Arch (including **Manjaro Linux**)\] and windows.
-- 💬 Writing: LaTeX, Markdown
-- 💭 Others: Git
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenyaojin&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
-## <div align='center' ><font size='70'>About me</font></div>
-
-- 💬 There are lots things we need to learn. I sincerely hope those prgrams could bring you ideas.
-- 👦 Free software/libre software will change the whole world. I believe it so much.
-  
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shenyaojin&show_icons=true" /></p>
-  <!---
-  shenyaojin/shenyaojin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  You can click the Preview link to take a look at your changes.
-  --->
 
 Please support the open-source software! 
 
