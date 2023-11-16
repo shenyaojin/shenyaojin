@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBYpEpoZWusuwyFEu8dKVRH5yWblYg0oj5s1IYd_eVOw&s" width="100" height="100" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBYpEpoZWusuwyFEu8dKVRH5yWblYg0oj5s1IYd_eVOw&s" width="490" height="307" />
 
 
 Please support the open-source software! 
