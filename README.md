@@ -4,7 +4,7 @@
 
 # 你的青春, 由我last丶炫无限复活
 
-Please support the open-source software! 
+BTW, Please support the open-source software! 
 
 ![avatar](https://www.zotero.org/static/images/promote/zotero-logo-128x31.png)
 
