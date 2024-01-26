@@ -1,8 +1,6 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBYpEpoZWusuwyFEu8dKVRH5yWblYg0oj5s1IYd_eVOw&s" width="490" height="307" />
+111
 
-# 你的青春, 由我last丶炫无限复活
-
-BTW, Please support the open-source software! 
+Please support the open-source software! 
 
 ![avatar](https://www.zotero.org/static/images/promote/zotero-logo-128x31.png)
 
