@@ -1,3 +1,3 @@
-啦啦啦
+Geophysics Ph.D. student in RCP, CO School of Mines. Working on the application of distributed fiber optic sensing (DFOS) in unconventional reservoir engineering
 
-- On a vacation in China. Might not respond in time.
+- https://rcp.mines.edu/
