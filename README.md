@@ -7,6 +7,7 @@ Geophysics Ph.D. student in Reservoir Characterization Project. Currently focusi
 **Current Project**
 
 - Bakken Mariner, Williston Basin, North Dakota. Sponsored by ExxonMobil.
-- fibeRIS development, which is a python lib focusing on FD/FE simulating and DFOS data processing. Used in Bakken Mariner and a DOE-sponsored project in RCP (I don't know the project name).
+- fibeRIS development, a tool designed to analyze time-discrete data and LF-DAS data simulation.
+- Hydraulic fracture monitoring using DFOS. In this project, hydraulic fracturing fractures are stimulated by electrodes energized with over 10,000V. It's a DOE project.
 
 My github page is back to online again. Here is the [link](https://shenyaojin.github.io).
