@@ -1,13 +1,12 @@
-Geophysics Ph.D. student in Reservoir Characterization Project. Currently focusing on evaluating the potential of distributed fiber optic sensing (DFOS) in **unconventional reservoir development**.
+**Geophysics Ph.D. student**, specializing in **distributed fiber optic sensing (DFOS)** for unconventional reservoir development.
 
-**Related Website**
+**Current Projects**:
 
-- https://rcp.mines.edu/
+- **Bakken Mariner**: ExxonMobil-sponsored project focusing on multi-dimensional datesets including DFOS, microseismic and engineering data the Bakken field in the Williston Basin, North Dakota.
 
-**Current Project**
+- **fibeRIS**: A *data analysis tool* for time-discrete and simulated LF-DAS data.
 
-- Bakken Mariner, Williston Basin, North Dakota. Sponsored by ExxonMobil.
-- fibeRIS development, a tool designed to analyze time-discrete data and LF-DAS data simulation.
-- Hydraulic fracture monitoring using DFOS. In this project, hydraulic fracturing fractures are stimulated by electrodes energized with over 10,000V. It's a DOE project.
+- Hydraulic Fracture Monitoring: A DOE project utilizing DFOS to monitor fractures stimulated by *high-voltage electrodes* (over 10,000V).
 
-My github page is back to online again. Here is the [link](https://shenyaojin.github.io).
+Find more details on my [GitHub page](https://shenyaojin.github.io/).
+Learn about my research at [Reservoir Characterization Project (RCP)](https://rcp.mines.edu/).
