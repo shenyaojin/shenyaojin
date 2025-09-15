@@ -9,4 +9,5 @@
 - Hydraulic Fracture Monitoring: A DOE project utilizing DFOS to monitor fractures stimulated by *high-voltage electrodes* (over 10,000V).
 
 Find more details on my [GitHub page](https://shenyaojin.github.io/).
+
 Learn about my research at [Reservoir Characterization Project (RCP)](https://rcp.mines.edu/).
