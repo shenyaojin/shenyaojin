@@ -6,7 +6,7 @@
 
 - **fibeRIS**: A *data analysis tool* for time-discrete and simulated LF-DAS data.
 
-- Hydraulic Fracture Monitoring: A DOE project utilizing DFOS to monitor fractures stimulated by *high-voltage electrodes* (over 10,000V).
+- Hydraulic Fracture Monitoring: A DOE project utilizing DFOS to monitor fractures stimulated by *high-voltage electrodes* (~50,000V).
 
 Find more details on my [GitHub page](https://shenyaojin.github.io/).
 
